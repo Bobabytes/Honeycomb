@@ -12,14 +12,14 @@ A website developed in ASP.NET, featuring authentication and authorization, as w
 ![dfe0b993_original](https://github.com/Bobabytes/Honeycomb/assets/154083278/983050a5-70ae-4755-8923-e2fd58ed8685)
 
 ## FAQ:
-- "I get a NET::ERR_CERT_INVALID error."
- - In Chrome:
- 1. Visit `chrome://flags/#allow-insecure-localhost`.
- 2. Enable the “Allow invalid certificates for resources loaded from localhost” flag.
- 3. Restart your browser.
- 
- - In Firefox:
- 1. Enter `about:config` in the address bar.
- 2. Search for `security.enterprise_roots.enabled` and set it to `true`.
- 3. Search for `security.certerrors.mitm.priming.enabled` and set it to `false`.
- 4. Restart your browser.
+### 1. "I get a NET::ERR_CERT_INVALID error."
+  - In Chrome:
+    1. Visit `chrome://flags/#allow-insecure-localhost`.
+    2. Enable the “Allow invalid certificates for resources loaded from localhost” flag.
+    3. Restart your browser.
+  
+  - In Firefox:
+    1. Enter `about:config` in the address bar.
+    2. Search for `security.enterprise_roots.enabled` and set it to `true`.
+    3. Search for `security.certerrors.mitm.priming.enabled` and set it to `false`.
+    4. Restart your browser.
