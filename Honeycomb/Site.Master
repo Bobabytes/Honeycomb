@@ -1,0 +1,90 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="Honeycomb.Site" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="Styles/Style.css" />
+
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="masterform" runat="server">
+        <div class="flexbox">
+                <div runat="server" id="adminNav" style="visibility: hidden">
+        <header>
+            <img id="logoimg" src="assets/HoneycombCursive.png" />
+            <nav>
+                
+                Admin
+                <ul>
+                    <ion-icon name="home-outline"></ion-icon>
+                    <li class="navactive"><a href="Home_Admin.aspx">Home</a></li>
+
+                    <ion-icon name="play-circle-outline"></ion-icon>
+                    <li><a href="Page1_Admin.aspx">Listen</a></li>
+
+                    <ion-icon name="chatbox-ellipses-outline"></ion-icon>
+                    <li><a href="Page2_Admin.aspx">Blog</a></li>
+
+                    <ion-icon name="settings-outline"></ion-icon>
+                    <li><a href="Page3_Admin.aspx">Manage</a></li>
+
+                    <li id="logoutBtn">
+                        <ion-icon name="log-in-outline"></ion-icon>
+                        <a href="Login.aspx">Logout</a></li>
+
+                </ul>
+            </nav>
+        </header>
+    </div>
+            <div runat="server" id="userNav" style="visibility: hidden">
+                <header><img id="logoimg" src="assets/HoneycombCursive.png" />
+                    <nav>
+                        
+                        User
+                    <ul>
+                        <ion-icon name="home-outline"></ion-icon>
+                        <li class="navactive"><a href="Home.aspx">Home</a></li>
+
+                        <ion-icon name="play-circle-outline"></ion-icon>
+                        <li><a href="Page1.aspx">Listen</a></li>
+
+                        <ion-icon name="construct-outline"></ion-icon>
+                        <li class="grayed">Unavailable</li>
+
+                        <ion-icon name="construct-outline"></ion-icon>
+                        <li class="grayed">Unavailable</li>
+
+                        <li id="logoutBtn">
+                            <ion-icon name="log-in-outline"></ion-icon>
+                            <a href="Login.aspx">Logout</a></li>
+
+                    </ul>
+                    </nav>
+                </header>
+            </div>
+
+
+
+
+
+
+
+
+
+            <asp:ContentPlaceHolder ID="MainContent" runat="server"></asp:ContentPlaceHolder>
+        </div>
+    </form>
+
+    <!-- Open-source icons. -->
+    <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+</body>
+</html>

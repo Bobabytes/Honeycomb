@@ -1,0 +1,329 @@
+﻿@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Pacifico&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'poppins',sans-serif;
+}
+
+p {
+    text-justify: auto;
+    text-shadow: 0px 0px 20px black;
+}
+
+.logo {
+    font-family: 'Pacifico', cursive;
+    font-size: 3em;
+}
+
+h1, h2, h3, h2 .highlighted {
+    font-family: 'Courgette', cursive;
+}
+
+footer {
+    opacity: 0.5;
+    position: absolute;
+    bottom: 3px;
+    align-self: center;
+    font-size: 0.5em;
+}
+
+#logoimg {
+    width: 100px;
+    height: auto;
+    margin-top: 20px;
+    align-self: center;
+    border-radius: 100px;
+    box-shadow: 0px 0px 10px;
+}
+
+.flexbox {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+}
+
+body {
+    height: 100%;
+    margin: 0;
+    color: #fff;
+    background: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    justify-items: center;
+}
+
+hr {
+    margin: 15px;
+}
+
+
+.container {
+    display: flex;
+    flex-flow: column;
+    max-width: 800px;
+    height: auto;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    padding: 30px;
+    margin: 20px;
+    border-radius: 15px;
+    border: 2px solid rgba(255,255,255,0.5);
+    backdrop-filter: blur(15px);
+    font-size: 1.2em;
+}
+
+
+
+h2 {
+    text-align: center;
+}
+
+label {
+    display: block;
+    margin: 10px 0 5px;
+}
+
+input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 15px;
+    box-sizing: border-box;
+}
+
+.btn {
+    width: 100%;
+    height: 60px;
+    border-radius: 40px;
+    background: #fff;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    font-size: 1em;
+    font-weight: 600;
+}
+
+
+
+.message {
+    color: orange;
+    font-size: 1.5em;
+}
+
+lblMessage2 {
+    font-size: x-large;
+}
+
+#form-container {
+    display: flex;
+    flex-flow: row wrap;
+}
+
+
+.form-control {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    margin-top: 5px;
+    border-radius: 4px;
+    box-sizing: border-box;
+    background: white;
+    border: 2px solid rgba(255,255,255,0.5);
+    border-radius: 20px;
+    backdrop-filter: blur(15px);
+}
+
+#goback {
+    color: white;
+}
+
+#signupCalendar {
+    background-color: whitesmoke;
+}
+
+.hidden {
+    display: none;
+}
+
+a {
+    color: whitesmoke;
+}
+
+nav {
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+    align-items: center;
+}
+
+    nav ul {
+        list-style: none;
+        display: flex;
+        flex-direction: column; /* Default: vertical on desktop */
+        align-content: center;
+        align-items: center;
+    }
+
+    nav li {
+        margin: 0;
+        padding: 10px;
+    }
+
+        nav li a {
+            color: whitesmoke;
+        }
+
+            nav li a:active, nav li a:focus {
+                color: orange;
+            }
+
+#logoutBtn {
+    margin-top: 50px;
+}
+
+nav ion-icon {
+    font-size: 16px;
+}
+
+header {
+    display: flex;
+    flex-flow: column wrap;
+}
+
+
+/* Media query for smaller devices (max-width: 767px) */
+@media (max-width: 1100px) {
+    .container {
+        width:auto;
+    }
+
+    .flexbox, nav {
+        display: flex;
+        flex-flow: column;
+        align-items: center;
+        flex-wrap: nowrap;
+        flex-direction: column;
+        align-content: stretch;
+        justify-content: space-evenly;
+    }
+
+        nav ul {
+            justify-content: center;
+            flex-direction: row; /* Change to horizontal layout on smaller devices */
+            flex-wrap: wrap;
+        }
+
+    #logoutBtn {
+        margin: 0;
+    }
+}
+
+
+#bgVideo {
+    /* Eliminate the html padding. */
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    /* Ensures the video covers the entire viewport */
+    z-index: -2;
+    /* Places the video behind other elements */
+    margin: 0;
+    padding: 0;
+    background-size: cover;
+    overflow: hidden;
+}
+
+#defheader {
+    padding: 50px;
+    margin: 50px;
+}
+
+.grayed {
+    opacity: 0.2;
+}
+
+.highlighted {
+    text-shadow: 0px 0px 30px rgba(255, 255, 255, 1);
+}
+
+.texthighlight {
+    color: #e6913c;
+    text-shadow: 0px 0px 5px #e6913c;
+}
+
+.navactive a {
+    text-shadow: 0px 2px 25px grba(255, 255, 255, 1);
+    color: orange;
+}
+
+.inputbox {
+    position: relative;
+    background: transparent;
+    border: 2px solid rgba(255,255,255,0.5);
+    border-radius: 20px;
+    backdrop-filter: blur(15px);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    color: white;
+}
+
+.admin {
+    opacity: 0.6;
+}
+
+
+ol {
+    padding: 20px;
+    border-radius: 10px;
+    margin: 20px;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+article {
+    text-justify: auto;
+    box-shadow: 0 0 10px #fff;
+    border-radius: 25px;
+    margin: 10px;
+    outline: 1px white;
+}
+
+    article p, article ol, article h2, article i {
+        margin: 10px;
+    }
+
+.btnSmall {
+}
+
+#settings {
+    justify-content: initial;
+    justify-items: initial;
+    align-content: initial;
+    align-items: initial;
+}
+
+    #settings input {
+        width: auto;
+        margin-left: 50px;
+    }
+
+    #settings button {
+        width: 200px;
+        margin: 20px;
+    }

@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Abacus of None\\Web Apps\\Honeycomb\\Honeycomb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E6CBBA2-2A4C-4B9C-B0EA-D3F94A92C6EA}|Honeycomb\\Honeycomb.csproj|d:\\abacus of none\\web apps\\honeycomb\\honeycomb\\honeycomb\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0E6CBBA2-2A4C-4B9C-B0EA-D3F94A92C6EA}|Honeycomb\\Honeycomb.csproj|solutionrelative:honeycomb\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E6CBBA2-2A4C-4B9C-B0EA-D3F94A92C6EA}|Honeycomb\\Honeycomb.csproj|d:\\abacus of none\\web apps\\honeycomb\\honeycomb\\honeycomb\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{0E6CBBA2-2A4C-4B9C-B0EA-D3F94A92C6EA}|Honeycomb\\Honeycomb.csproj|solutionrelative:honeycomb\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E6CBBA2-2A4C-4B9C-B0EA-D3F94A92C6EA}|Honeycomb\\Honeycomb.csproj|d:\\abacus of none\\web apps\\honeycomb\\honeycomb\\honeycomb\\signup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0E6CBBA2-2A4C-4B9C-B0EA-D3F94A92C6EA}|Honeycomb\\Honeycomb.csproj|solutionrelative:honeycomb\\signup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E6CBBA2-2A4C-4B9C-B0EA-D3F94A92C6EA}|Honeycomb\\Honeycomb.csproj|d:\\abacus of none\\web apps\\honeycomb\\honeycomb\\honeycomb\\page3_admin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0E6CBBA2-2A4C-4B9C-B0EA-D3F94A92C6EA}|Honeycomb\\Honeycomb.csproj|solutionrelative:honeycomb\\page3_admin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E6CBBA2-2A4C-4B9C-B0EA-D3F94A92C6EA}|Honeycomb\\Honeycomb.csproj|d:\\abacus of none\\web apps\\honeycomb\\honeycomb\\honeycomb\\page2_admin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0E6CBBA2-2A4C-4B9C-B0EA-D3F94A92C6EA}|Honeycomb\\Honeycomb.csproj|solutionrelative:honeycomb\\page2_admin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E6CBBA2-2A4C-4B9C-B0EA-D3F94A92C6EA}|Honeycomb\\Honeycomb.csproj|d:\\abacus of none\\web apps\\honeycomb\\honeycomb\\honeycomb\\page1_admin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0E6CBBA2-2A4C-4B9C-B0EA-D3F94A92C6EA}|Honeycomb\\Honeycomb.csproj|solutionrelative:honeycomb\\page1_admin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E6CBBA2-2A4C-4B9C-B0EA-D3F94A92C6EA}|Honeycomb\\Honeycomb.csproj|d:\\abacus of none\\web apps\\honeycomb\\honeycomb\\honeycomb\\page1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0E6CBBA2-2A4C-4B9C-B0EA-D3F94A92C6EA}|Honeycomb\\Honeycomb.csproj|solutionrelative:honeycomb\\page1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E6CBBA2-2A4C-4B9C-B0EA-D3F94A92C6EA}|Honeycomb\\Honeycomb.csproj|d:\\abacus of none\\web apps\\honeycomb\\honeycomb\\honeycomb\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0E6CBBA2-2A4C-4B9C-B0EA-D3F94A92C6EA}|Honeycomb\\Honeycomb.csproj|solutionrelative:honeycomb\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E6CBBA2-2A4C-4B9C-B0EA-D3F94A92C6EA}|Honeycomb\\Honeycomb.csproj|d:\\abacus of none\\web apps\\honeycomb\\honeycomb\\honeycomb\\home_admin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0E6CBBA2-2A4C-4B9C-B0EA-D3F94A92C6EA}|Honeycomb\\Honeycomb.csproj|solutionrelative:honeycomb\\home_admin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Site.Master",
+              "DocumentMoniker": "D:\\Abacus of None\\Web Apps\\Honeycomb\\Honeycomb\\Honeycomb\\Site.Master",
+              "RelativeDocumentMoniker": "Honeycomb\\Site.Master",
+              "ToolTip": "D:\\Abacus of None\\Web Apps\\Honeycomb\\Honeycomb\\Honeycomb\\Site.Master",
+              "RelativeToolTip": "Honeycomb\\Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-13T21:46:36.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SignUp.aspx",
+              "DocumentMoniker": "D:\\Abacus of None\\Web Apps\\Honeycomb\\Honeycomb\\Honeycomb\\SignUp.aspx",
+              "RelativeDocumentMoniker": "Honeycomb\\SignUp.aspx",
+              "ToolTip": "D:\\Abacus of None\\Web Apps\\Honeycomb\\Honeycomb\\Honeycomb\\SignUp.aspx",
+              "RelativeToolTip": "Honeycomb\\SignUp.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-13T21:46:33.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Page3_Admin.aspx",
+              "DocumentMoniker": "D:\\Abacus of None\\Web Apps\\Honeycomb\\Honeycomb\\Honeycomb\\Page3_Admin.aspx",
+              "RelativeDocumentMoniker": "Honeycomb\\Page3_Admin.aspx",
+              "ToolTip": "D:\\Abacus of None\\Web Apps\\Honeycomb\\Honeycomb\\Honeycomb\\Page3_Admin.aspx",
+              "RelativeToolTip": "Honeycomb\\Page3_Admin.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-13T21:46:31.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Page2_Admin.aspx",
+              "DocumentMoniker": "D:\\Abacus of None\\Web Apps\\Honeycomb\\Honeycomb\\Honeycomb\\Page2_Admin.aspx",
+              "RelativeDocumentMoniker": "Honeycomb\\Page2_Admin.aspx",
+              "ToolTip": "D:\\Abacus of None\\Web Apps\\Honeycomb\\Honeycomb\\Honeycomb\\Page2_Admin.aspx",
+              "RelativeToolTip": "Honeycomb\\Page2_Admin.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-13T21:46:28.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Page1_Admin.aspx",
+              "DocumentMoniker": "D:\\Abacus of None\\Web Apps\\Honeycomb\\Honeycomb\\Honeycomb\\Page1_Admin.aspx",
+              "RelativeDocumentMoniker": "Honeycomb\\Page1_Admin.aspx",
+              "ToolTip": "D:\\Abacus of None\\Web Apps\\Honeycomb\\Honeycomb\\Honeycomb\\Page1_Admin.aspx",
+              "RelativeToolTip": "Honeycomb\\Page1_Admin.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-13T21:46:22.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Page1.aspx",
+              "DocumentMoniker": "D:\\Abacus of None\\Web Apps\\Honeycomb\\Honeycomb\\Honeycomb\\Page1.aspx",
+              "RelativeDocumentMoniker": "Honeycomb\\Page1.aspx",
+              "ToolTip": "D:\\Abacus of None\\Web Apps\\Honeycomb\\Honeycomb\\Honeycomb\\Page1.aspx",
+              "RelativeToolTip": "Honeycomb\\Page1.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-13T21:46:15.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "D:\\Abacus of None\\Web Apps\\Honeycomb\\Honeycomb\\Honeycomb\\Login.aspx",
+              "RelativeDocumentMoniker": "Honeycomb\\Login.aspx",
+              "ToolTip": "D:\\Abacus of None\\Web Apps\\Honeycomb\\Honeycomb\\Honeycomb\\Login.aspx",
+              "RelativeToolTip": "Honeycomb\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-13T21:46:06.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Home_Admin.aspx",
+              "DocumentMoniker": "D:\\Abacus of None\\Web Apps\\Honeycomb\\Honeycomb\\Honeycomb\\Home_Admin.aspx",
+              "RelativeDocumentMoniker": "Honeycomb\\Home_Admin.aspx",
+              "ToolTip": "D:\\Abacus of None\\Web Apps\\Honeycomb\\Honeycomb\\Honeycomb\\Home_Admin.aspx",
+              "RelativeToolTip": "Honeycomb\\Home_Admin.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-13T21:46:03.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.aspx",
+              "DocumentMoniker": "D:\\Abacus of None\\Web Apps\\Honeycomb\\Honeycomb\\Honeycomb\\Home.aspx",
+              "RelativeDocumentMoniker": "Honeycomb\\Home.aspx",
+              "ToolTip": "D:\\Abacus of None\\Web Apps\\Honeycomb\\Honeycomb\\Honeycomb\\Home.aspx",
+              "RelativeToolTip": "Honeycomb\\Home.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-13T21:45:06.25Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

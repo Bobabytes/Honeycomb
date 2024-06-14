@@ -1,0 +1,710 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Abacus of None\\Web Apps\\Honeycomb\\Coursework 2\\Coursework 2b\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E6CBBA2-2A4C-4B9C-B0EA-D3F94A92C6EA}|Coursework 2b\\Honeycomb.csproj|d:\\abacus of none\\web apps\\honeycomb\\coursework 2\\coursework 2b\\coursework 2b\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E6CBBA2-2A4C-4B9C-B0EA-D3F94A92C6EA}|Coursework 2b\\Honeycomb.csproj|solutionrelative:coursework 2b\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E6CBBA2-2A4C-4B9C-B0EA-D3F94A92C6EA}|Coursework 2b\\Honeycomb.csproj|d:\\abacus of none\\web apps\\honeycomb\\coursework 2\\coursework 2b\\coursework 2b\\styles\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0E6CBBA2-2A4C-4B9C-B0EA-D3F94A92C6EA}|Coursework 2b\\Honeycomb.csproj|solutionrelative:coursework 2b\\styles\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E6CBBA2-2A4C-4B9C-B0EA-D3F94A92C6EA}|Coursework 2b\\Coursework 2b.csproj|D:\\Abacus of None\\Web Apps\\Honeycomb\\Coursework 2\\Coursework 2b\\coursework 2b\\styles\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0E6CBBA2-2A4C-4B9C-B0EA-D3F94A92C6EA}|Coursework 2b\\Coursework 2b.csproj|solutionrelative:coursework 2b\\styles\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E6CBBA2-2A4C-4B9C-B0EA-D3F94A92C6EA}|Coursework 2b\\Coursework 2b.csproj|d:\\abacus of none\\web apps\\honeycomb\\coursework 2\\coursework 2b\\coursework 2b\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0E6CBBA2-2A4C-4B9C-B0EA-D3F94A92C6EA}|Coursework 2b\\Coursework 2b.csproj|solutionrelative:coursework 2b\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E6CBBA2-2A4C-4B9C-B0EA-D3F94A92C6EA}|Coursework 2b\\Honeycomb.csproj|d:\\abacus of none\\web apps\\honeycomb\\coursework 2\\coursework 2b\\coursework 2b\\home.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E6CBBA2-2A4C-4B9C-B0EA-D3F94A92C6EA}|Coursework 2b\\Honeycomb.csproj|solutionrelative:coursework 2b\\home.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E6CBBA2-2A4C-4B9C-B0EA-D3F94A92C6EA}|Coursework 2b\\Honeycomb.csproj|d:\\abacus of none\\web apps\\honeycomb\\coursework 2\\coursework 2b\\coursework 2b\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E6CBBA2-2A4C-4B9C-B0EA-D3F94A92C6EA}|Coursework 2b\\Honeycomb.csproj|solutionrelative:coursework 2b\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E6CBBA2-2A4C-4B9C-B0EA-D3F94A92C6EA}|Coursework 2b\\Coursework 2b.csproj|D:\\Abacus of None\\Web Apps\\Honeycomb\\Coursework 2\\Coursework 2b\\coursework 2b\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E6CBBA2-2A4C-4B9C-B0EA-D3F94A92C6EA}|Coursework 2b\\Coursework 2b.csproj|solutionrelative:coursework 2b\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E6CBBA2-2A4C-4B9C-B0EA-D3F94A92C6EA}|Coursework 2b\\Honeycomb.csproj|d:\\abacus of none\\web apps\\honeycomb\\coursework 2\\coursework 2b\\coursework 2b\\home_admin.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E6CBBA2-2A4C-4B9C-B0EA-D3F94A92C6EA}|Coursework 2b\\Honeycomb.csproj|solutionrelative:coursework 2b\\home_admin.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E6CBBA2-2A4C-4B9C-B0EA-D3F94A92C6EA}|Coursework 2b\\Honeycomb.csproj|d:\\abacus of none\\web apps\\honeycomb\\coursework 2\\coursework 2b\\coursework 2b\\home_admin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E6CBBA2-2A4C-4B9C-B0EA-D3F94A92C6EA}|Coursework 2b\\Honeycomb.csproj|solutionrelative:coursework 2b\\home_admin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E6CBBA2-2A4C-4B9C-B0EA-D3F94A92C6EA}|Coursework 2b\\Honeycomb.csproj|d:\\abacus of none\\web apps\\honeycomb\\coursework 2\\coursework 2b\\coursework 2b\\login.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E6CBBA2-2A4C-4B9C-B0EA-D3F94A92C6EA}|Coursework 2b\\Honeycomb.csproj|solutionrelative:coursework 2b\\login.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E6CBBA2-2A4C-4B9C-B0EA-D3F94A92C6EA}|Coursework 2b\\Honeycomb.csproj|d:\\abacus of none\\web apps\\honeycomb\\coursework 2\\coursework 2b\\coursework 2b\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E6CBBA2-2A4C-4B9C-B0EA-D3F94A92C6EA}|Coursework 2b\\Honeycomb.csproj|solutionrelative:coursework 2b\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E6CBBA2-2A4C-4B9C-B0EA-D3F94A92C6EA}|Coursework 2b\\Coursework 2b.csproj|D:\\Abacus of None\\Web Apps\\Honeycomb\\Coursework 2\\Coursework 2b\\coursework 2b\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E6CBBA2-2A4C-4B9C-B0EA-D3F94A92C6EA}|Coursework 2b\\Coursework 2b.csproj|solutionrelative:coursework 2b\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E6CBBA2-2A4C-4B9C-B0EA-D3F94A92C6EA}|Coursework 2b\\Honeycomb.csproj|d:\\abacus of none\\web apps\\honeycomb\\coursework 2\\coursework 2b\\coursework 2b\\page1.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E6CBBA2-2A4C-4B9C-B0EA-D3F94A92C6EA}|Coursework 2b\\Honeycomb.csproj|solutionrelative:coursework 2b\\page1.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E6CBBA2-2A4C-4B9C-B0EA-D3F94A92C6EA}|Coursework 2b\\Honeycomb.csproj|d:\\abacus of none\\web apps\\honeycomb\\coursework 2\\coursework 2b\\coursework 2b\\page1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E6CBBA2-2A4C-4B9C-B0EA-D3F94A92C6EA}|Coursework 2b\\Honeycomb.csproj|solutionrelative:coursework 2b\\page1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E6CBBA2-2A4C-4B9C-B0EA-D3F94A92C6EA}|Coursework 2b\\Honeycomb.csproj|d:\\abacus of none\\web apps\\honeycomb\\coursework 2\\coursework 2b\\coursework 2b\\page1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0E6CBBA2-2A4C-4B9C-B0EA-D3F94A92C6EA}|Coursework 2b\\Honeycomb.csproj|solutionrelative:coursework 2b\\page1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E6CBBA2-2A4C-4B9C-B0EA-D3F94A92C6EA}|Coursework 2b\\Honeycomb.csproj|d:\\abacus of none\\web apps\\honeycomb\\coursework 2\\coursework 2b\\coursework 2b\\page1_admin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0E6CBBA2-2A4C-4B9C-B0EA-D3F94A92C6EA}|Coursework 2b\\Honeycomb.csproj|solutionrelative:coursework 2b\\page1_admin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E6CBBA2-2A4C-4B9C-B0EA-D3F94A92C6EA}|Coursework 2b\\Honeycomb.csproj|d:\\abacus of none\\web apps\\honeycomb\\coursework 2\\coursework 2b\\coursework 2b\\page1_admin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E6CBBA2-2A4C-4B9C-B0EA-D3F94A92C6EA}|Coursework 2b\\Honeycomb.csproj|solutionrelative:coursework 2b\\page1_admin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E6CBBA2-2A4C-4B9C-B0EA-D3F94A92C6EA}|Coursework 2b\\Honeycomb.csproj|d:\\abacus of none\\web apps\\honeycomb\\coursework 2\\coursework 2b\\coursework 2b\\page1_admin.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E6CBBA2-2A4C-4B9C-B0EA-D3F94A92C6EA}|Coursework 2b\\Honeycomb.csproj|solutionrelative:coursework 2b\\page1_admin.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E6CBBA2-2A4C-4B9C-B0EA-D3F94A92C6EA}|Coursework 2b\\Honeycomb.csproj|d:\\abacus of none\\web apps\\honeycomb\\coursework 2\\coursework 2b\\coursework 2b\\page2_admin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0E6CBBA2-2A4C-4B9C-B0EA-D3F94A92C6EA}|Coursework 2b\\Honeycomb.csproj|solutionrelative:coursework 2b\\page2_admin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E6CBBA2-2A4C-4B9C-B0EA-D3F94A92C6EA}|Coursework 2b\\Honeycomb.csproj|d:\\abacus of none\\web apps\\honeycomb\\coursework 2\\coursework 2b\\coursework 2b\\page2_admin.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E6CBBA2-2A4C-4B9C-B0EA-D3F94A92C6EA}|Coursework 2b\\Honeycomb.csproj|solutionrelative:coursework 2b\\page2_admin.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E6CBBA2-2A4C-4B9C-B0EA-D3F94A92C6EA}|Coursework 2b\\Honeycomb.csproj|d:\\abacus of none\\web apps\\honeycomb\\coursework 2\\coursework 2b\\coursework 2b\\page2_admin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E6CBBA2-2A4C-4B9C-B0EA-D3F94A92C6EA}|Coursework 2b\\Honeycomb.csproj|solutionrelative:coursework 2b\\page2_admin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E6CBBA2-2A4C-4B9C-B0EA-D3F94A92C6EA}|Coursework 2b\\Honeycomb.csproj|d:\\abacus of none\\web apps\\honeycomb\\coursework 2\\coursework 2b\\coursework 2b\\page3_admin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E6CBBA2-2A4C-4B9C-B0EA-D3F94A92C6EA}|Coursework 2b\\Honeycomb.csproj|solutionrelative:coursework 2b\\page3_admin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E6CBBA2-2A4C-4B9C-B0EA-D3F94A92C6EA}|Coursework 2b\\Honeycomb.csproj|d:\\abacus of none\\web apps\\honeycomb\\coursework 2\\coursework 2b\\coursework 2b\\page3_admin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0E6CBBA2-2A4C-4B9C-B0EA-D3F94A92C6EA}|Coursework 2b\\Honeycomb.csproj|solutionrelative:coursework 2b\\page3_admin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E6CBBA2-2A4C-4B9C-B0EA-D3F94A92C6EA}|Coursework 2b\\Honeycomb.csproj|d:\\abacus of none\\web apps\\honeycomb\\coursework 2\\coursework 2b\\coursework 2b\\page3_admin.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E6CBBA2-2A4C-4B9C-B0EA-D3F94A92C6EA}|Coursework 2b\\Honeycomb.csproj|solutionrelative:coursework 2b\\page3_admin.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E6CBBA2-2A4C-4B9C-B0EA-D3F94A92C6EA}|Coursework 2b\\Honeycomb.csproj|d:\\abacus of none\\web apps\\honeycomb\\coursework 2\\coursework 2b\\coursework 2b\\signup.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E6CBBA2-2A4C-4B9C-B0EA-D3F94A92C6EA}|Coursework 2b\\Honeycomb.csproj|solutionrelative:coursework 2b\\signup.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E6CBBA2-2A4C-4B9C-B0EA-D3F94A92C6EA}|Coursework 2b\\Honeycomb.csproj|d:\\abacus of none\\web apps\\honeycomb\\coursework 2\\coursework 2b\\coursework 2b\\signup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E6CBBA2-2A4C-4B9C-B0EA-D3F94A92C6EA}|Coursework 2b\\Honeycomb.csproj|solutionrelative:coursework 2b\\signup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E6CBBA2-2A4C-4B9C-B0EA-D3F94A92C6EA}|Coursework 2b\\Honeycomb.csproj|d:\\abacus of none\\web apps\\honeycomb\\coursework 2\\coursework 2b\\coursework 2b\\signup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0E6CBBA2-2A4C-4B9C-B0EA-D3F94A92C6EA}|Coursework 2b\\Honeycomb.csproj|solutionrelative:coursework 2b\\signup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E6CBBA2-2A4C-4B9C-B0EA-D3F94A92C6EA}|Coursework 2b\\Coursework 2b.csproj|D:\\Abacus of None\\Web Apps\\Honeycomb\\Coursework 2\\Coursework 2b\\coursework 2b\\signup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E6CBBA2-2A4C-4B9C-B0EA-D3F94A92C6EA}|Coursework 2b\\Coursework 2b.csproj|solutionrelative:coursework 2b\\signup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E6CBBA2-2A4C-4B9C-B0EA-D3F94A92C6EA}|Coursework 2b\\Honeycomb.csproj|d:\\abacus of none\\web apps\\honeycomb\\coursework 2\\coursework 2b\\coursework 2b\\site.master.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E6CBBA2-2A4C-4B9C-B0EA-D3F94A92C6EA}|Coursework 2b\\Honeycomb.csproj|solutionrelative:coursework 2b\\site.master.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E6CBBA2-2A4C-4B9C-B0EA-D3F94A92C6EA}|Coursework 2b\\Honeycomb.csproj|d:\\abacus of none\\web apps\\honeycomb\\coursework 2\\coursework 2b\\coursework 2b\\site.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E6CBBA2-2A4C-4B9C-B0EA-D3F94A92C6EA}|Coursework 2b\\Honeycomb.csproj|solutionrelative:coursework 2b\\site.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E6CBBA2-2A4C-4B9C-B0EA-D3F94A92C6EA}|Coursework 2b\\Coursework 2b.csproj|D:\\Abacus of None\\Web Apps\\Honeycomb\\Coursework 2\\Coursework 2b\\coursework 2b\\site.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E6CBBA2-2A4C-4B9C-B0EA-D3F94A92C6EA}|Coursework 2b\\Coursework 2b.csproj|solutionrelative:coursework 2b\\site.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Honeycomb||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E6CBBA2-2A4C-4B9C-B0EA-D3F94A92C6EA}|Coursework 2b\\Coursework 2b.csproj|D:\\Abacus of None\\Web Apps\\Honeycomb\\Coursework 2\\Coursework 2b\\coursework 2b\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0E6CBBA2-2A4C-4B9C-B0EA-D3F94A92C6EA}|Coursework 2b\\Coursework 2b.csproj|solutionrelative:coursework 2b\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E6CBBA2-2A4C-4B9C-B0EA-D3F94A92C6EA}|Coursework 2b\\Coursework 2b.csproj|D:\\Abacus of None\\Web Apps\\Honeycomb\\Coursework 2\\Coursework 2b\\coursework 2b\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{0E6CBBA2-2A4C-4B9C-B0EA-D3F94A92C6EA}|Coursework 2b\\Coursework 2b.csproj|solutionrelative:coursework 2b\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E6CBBA2-2A4C-4B9C-B0EA-D3F94A92C6EA}|Coursework 2b\\Coursework 2b.csproj|D:\\Abacus of None\\Web Apps\\Honeycomb\\Coursework 2\\Coursework 2b\\coursework 2b\\page2_admin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0E6CBBA2-2A4C-4B9C-B0EA-D3F94A92C6EA}|Coursework 2b\\Coursework 2b.csproj|solutionrelative:coursework 2b\\page2_admin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E6CBBA2-2A4C-4B9C-B0EA-D3F94A92C6EA}|Coursework 2b\\Coursework 2b.csproj|D:\\Abacus of None\\Web Apps\\Honeycomb\\Coursework 2\\Coursework 2b\\coursework 2b\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0E6CBBA2-2A4C-4B9C-B0EA-D3F94A92C6EA}|Coursework 2b\\Coursework 2b.csproj|solutionrelative:coursework 2b\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E6CBBA2-2A4C-4B9C-B0EA-D3F94A92C6EA}|Coursework 2b\\Coursework 2b.csproj|D:\\Abacus of None\\Web Apps\\Honeycomb\\Coursework 2\\Coursework 2b\\coursework 2b\\page3_admin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0E6CBBA2-2A4C-4B9C-B0EA-D3F94A92C6EA}|Coursework 2b\\Coursework 2b.csproj|solutionrelative:coursework 2b\\page3_admin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E6CBBA2-2A4C-4B9C-B0EA-D3F94A92C6EA}|Coursework 2b\\Coursework 2b.csproj|D:\\Abacus of None\\Web Apps\\Honeycomb\\Coursework 2\\Coursework 2b\\coursework 2b\\home_admin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0E6CBBA2-2A4C-4B9C-B0EA-D3F94A92C6EA}|Coursework 2b\\Coursework 2b.csproj|solutionrelative:coursework 2b\\home_admin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E6CBBA2-2A4C-4B9C-B0EA-D3F94A92C6EA}|Coursework 2b\\Coursework 2b.csproj|D:\\Abacus of None\\Web Apps\\Honeycomb\\Coursework 2\\Coursework 2b\\coursework 2b\\page1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0E6CBBA2-2A4C-4B9C-B0EA-D3F94A92C6EA}|Coursework 2b\\Coursework 2b.csproj|solutionrelative:coursework 2b\\page1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E6CBBA2-2A4C-4B9C-B0EA-D3F94A92C6EA}|Coursework 2b\\Coursework 2b.csproj|D:\\Abacus of None\\Web Apps\\Honeycomb\\Coursework 2\\Coursework 2b\\coursework 2b\\signup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0E6CBBA2-2A4C-4B9C-B0EA-D3F94A92C6EA}|Coursework 2b\\Coursework 2b.csproj|solutionrelative:coursework 2b\\signup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E6CBBA2-2A4C-4B9C-B0EA-D3F94A92C6EA}|Coursework 2b\\Coursework 2b.csproj|D:\\Abacus of None\\Web Apps\\Honeycomb\\Coursework 2\\Coursework 2b\\coursework 2b\\page1_admin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0E6CBBA2-2A4C-4B9C-B0EA-D3F94A92C6EA}|Coursework 2b\\Coursework 2b.csproj|solutionrelative:coursework 2b\\page1_admin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E6CBBA2-2A4C-4B9C-B0EA-D3F94A92C6EA}|Coursework 2b\\Honeycomb.csproj|d:\\abacus of none\\web apps\\honeycomb\\coursework 2\\coursework 2b\\coursework 2b\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\Abacus of None\\Web Apps\\Honeycomb\\Coursework 2\\Coursework 2b\\Coursework 2b\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Coursework 2b\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "D:\\Abacus of None\\Web Apps\\Honeycomb\\Coursework 2\\Coursework 2b\\Coursework 2b\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Coursework 2b\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T21:21:16.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Home.aspx.designer.cs",
+              "DocumentMoniker": "D:\\Abacus of None\\Web Apps\\Honeycomb\\Coursework 2\\Coursework 2b\\Coursework 2b\\Home.aspx.designer.cs",
+              "RelativeDocumentMoniker": "Coursework 2b\\Home.aspx.designer.cs",
+              "ToolTip": "D:\\Abacus of None\\Web Apps\\Honeycomb\\Coursework 2\\Coursework 2b\\Coursework 2b\\Home.aspx.designer.cs",
+              "RelativeToolTip": "Coursework 2b\\Home.aspx.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T21:21:05.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Home_Admin.aspx.designer.cs",
+              "DocumentMoniker": "D:\\Abacus of None\\Web Apps\\Honeycomb\\Coursework 2\\Coursework 2b\\Coursework 2b\\Home_Admin.aspx.designer.cs",
+              "RelativeDocumentMoniker": "Coursework 2b\\Home_Admin.aspx.designer.cs",
+              "ToolTip": "D:\\Abacus of None\\Web Apps\\Honeycomb\\Coursework 2\\Coursework 2b\\Coursework 2b\\Home_Admin.aspx.designer.cs",
+              "RelativeToolTip": "Coursework 2b\\Home_Admin.aspx.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T21:20:59.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Home_Admin.aspx.cs",
+              "DocumentMoniker": "D:\\Abacus of None\\Web Apps\\Honeycomb\\Coursework 2\\Coursework 2b\\Coursework 2b\\Home_Admin.aspx.cs",
+              "RelativeDocumentMoniker": "Coursework 2b\\Home_Admin.aspx.cs",
+              "ToolTip": "D:\\Abacus of None\\Web Apps\\Honeycomb\\Coursework 2\\Coursework 2b\\Coursework 2b\\Home_Admin.aspx.cs",
+              "RelativeToolTip": "Coursework 2b\\Home_Admin.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T21:20:56.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.aspx.designer.cs",
+              "DocumentMoniker": "D:\\Abacus of None\\Web Apps\\Honeycomb\\Coursework 2\\Coursework 2b\\Coursework 2b\\Login.aspx.designer.cs",
+              "RelativeDocumentMoniker": "Coursework 2b\\Login.aspx.designer.cs",
+              "ToolTip": "D:\\Abacus of None\\Web Apps\\Honeycomb\\Coursework 2\\Coursework 2b\\Coursework 2b\\Login.aspx.designer.cs",
+              "RelativeToolTip": "Coursework 2b\\Login.aspx.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T21:19:32.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Page1.aspx.designer.cs",
+              "DocumentMoniker": "D:\\Abacus of None\\Web Apps\\Honeycomb\\Coursework 2\\Coursework 2b\\Coursework 2b\\Page1.aspx.designer.cs",
+              "RelativeDocumentMoniker": "Coursework 2b\\Page1.aspx.designer.cs",
+              "ToolTip": "D:\\Abacus of None\\Web Apps\\Honeycomb\\Coursework 2\\Coursework 2b\\Coursework 2b\\Page1.aspx.designer.cs",
+              "RelativeToolTip": "Coursework 2b\\Page1.aspx.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T21:19:20.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Page1.aspx.cs",
+              "DocumentMoniker": "D:\\Abacus of None\\Web Apps\\Honeycomb\\Coursework 2\\Coursework 2b\\Coursework 2b\\Page1.aspx.cs",
+              "RelativeDocumentMoniker": "Coursework 2b\\Page1.aspx.cs",
+              "ToolTip": "D:\\Abacus of None\\Web Apps\\Honeycomb\\Coursework 2\\Coursework 2b\\Coursework 2b\\Page1.aspx.cs",
+              "RelativeToolTip": "Coursework 2b\\Page1.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T21:19:18.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Page1_Admin.aspx.cs",
+              "DocumentMoniker": "D:\\Abacus of None\\Web Apps\\Honeycomb\\Coursework 2\\Coursework 2b\\Coursework 2b\\Page1_Admin.aspx.cs",
+              "RelativeDocumentMoniker": "Coursework 2b\\Page1_Admin.aspx.cs",
+              "ToolTip": "D:\\Abacus of None\\Web Apps\\Honeycomb\\Coursework 2\\Coursework 2b\\Coursework 2b\\Page1_Admin.aspx.cs",
+              "RelativeToolTip": "Coursework 2b\\Page1_Admin.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T21:18:56.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Home.aspx",
+              "DocumentMoniker": "D:\\Abacus of None\\Web Apps\\Honeycomb\\Coursework 2\\Coursework 2b\\Coursework 2b\\Home.aspx",
+              "RelativeDocumentMoniker": "Coursework 2b\\Home.aspx",
+              "ToolTip": "D:\\Abacus of None\\Web Apps\\Honeycomb\\Coursework 2\\Coursework 2b\\Coursework 2b\\Home.aspx",
+              "RelativeToolTip": "Coursework 2b\\Home.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-13T20:58:01.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Style.css",
+              "DocumentMoniker": "D:\\Abacus of None\\Web Apps\\Honeycomb\\Coursework 2\\Coursework 2b\\Coursework 2b\\Styles\\Style.css",
+              "RelativeDocumentMoniker": "Coursework 2b\\Styles\\Style.css",
+              "ToolTip": "D:\\Abacus of None\\Web Apps\\Honeycomb\\Coursework 2\\Coursework 2b\\Coursework 2b\\Styles\\Style.css",
+              "RelativeToolTip": "Coursework 2b\\Styles\\Style.css",
+              "ViewState": "AQIAAMUAAAAAAAAAAAAcwNUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-13T20:57:59.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Style.css",
+              "DocumentMoniker": "D:\\Abacus of None\\Web Apps\\Honeycomb\\Coursework 2\\Coursework 2b\\Coursework 2b\\Styles\\Style.css",
+              "RelativeDocumentMoniker": "Coursework 2b\\Styles\\Style.css",
+              "ToolTip": "D:\\Abacus of None\\Web Apps\\Honeycomb\\Coursework 2\\Coursework 2b\\Coursework 2b\\Styles\\Style.css",
+              "RelativeToolTip": "Coursework 2b\\Styles\\Style.css",
+              "ViewState": "AQIAAJIAAAAAAAAAAAAcwNUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-13T21:15:53.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Page1_Admin.aspx.designer.cs",
+              "DocumentMoniker": "D:\\Abacus of None\\Web Apps\\Honeycomb\\Coursework 2\\Coursework 2b\\Coursework 2b\\Page1_Admin.aspx.designer.cs",
+              "RelativeDocumentMoniker": "Coursework 2b\\Page1_Admin.aspx.designer.cs",
+              "ToolTip": "D:\\Abacus of None\\Web Apps\\Honeycomb\\Coursework 2\\Coursework 2b\\Coursework 2b\\Page1_Admin.aspx.designer.cs",
+              "RelativeToolTip": "Coursework 2b\\Page1_Admin.aspx.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T21:18:59.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Home.aspx.cs",
+              "DocumentMoniker": "D:\\Abacus of None\\Web Apps\\Honeycomb\\Coursework 2\\Coursework 2b\\Coursework 2b\\Home.aspx.cs",
+              "RelativeDocumentMoniker": "Coursework 2b\\Home.aspx.cs",
+              "ToolTip": "D:\\Abacus of None\\Web Apps\\Honeycomb\\Coursework 2\\Coursework 2b\\Coursework 2b\\Home.aspx.cs",
+              "RelativeToolTip": "Coursework 2b\\Home.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-06-13T20:58:01.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Home.aspx.cs",
+              "DocumentMoniker": "D:\\Abacus of None\\Web Apps\\Honeycomb\\Coursework 2\\Coursework 2b\\Coursework 2b\\Home.aspx.cs",
+              "RelativeDocumentMoniker": "Coursework 2b\\Home.aspx.cs",
+              "ToolTip": "D:\\Abacus of None\\Web Apps\\Honeycomb\\Coursework 2\\Coursework 2b\\Coursework 2b\\Home.aspx.cs",
+              "RelativeToolTip": "Coursework 2b\\Home.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T21:15:53.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Page2_Admin.aspx.designer.cs",
+              "DocumentMoniker": "D:\\Abacus of None\\Web Apps\\Honeycomb\\Coursework 2\\Coursework 2b\\Coursework 2b\\Page2_Admin.aspx.designer.cs",
+              "RelativeDocumentMoniker": "Coursework 2b\\Page2_Admin.aspx.designer.cs",
+              "ToolTip": "D:\\Abacus of None\\Web Apps\\Honeycomb\\Coursework 2\\Coursework 2b\\Coursework 2b\\Page2_Admin.aspx.designer.cs",
+              "RelativeToolTip": "Coursework 2b\\Page2_Admin.aspx.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T21:18:52.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Page2_Admin.aspx.cs",
+              "DocumentMoniker": "D:\\Abacus of None\\Web Apps\\Honeycomb\\Coursework 2\\Coursework 2b\\Coursework 2b\\Page2_Admin.aspx.cs",
+              "RelativeDocumentMoniker": "Coursework 2b\\Page2_Admin.aspx.cs",
+              "ToolTip": "D:\\Abacus of None\\Web Apps\\Honeycomb\\Coursework 2\\Coursework 2b\\Coursework 2b\\Page2_Admin.aspx.cs",
+              "RelativeToolTip": "Coursework 2b\\Page2_Admin.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T21:18:48.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Page3_Admin.aspx.cs",
+              "DocumentMoniker": "D:\\Abacus of None\\Web Apps\\Honeycomb\\Coursework 2\\Coursework 2b\\Coursework 2b\\Page3_Admin.aspx.cs",
+              "RelativeDocumentMoniker": "Coursework 2b\\Page3_Admin.aspx.cs",
+              "ToolTip": "D:\\Abacus of None\\Web Apps\\Honeycomb\\Coursework 2\\Coursework 2b\\Coursework 2b\\Page3_Admin.aspx.cs",
+              "RelativeToolTip": "Coursework 2b\\Page3_Admin.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T21:18:39.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "D:\\Abacus of None\\Web Apps\\Honeycomb\\Coursework 2\\Coursework 2b\\Coursework 2b\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "Coursework 2b\\Login.aspx.cs",
+              "ToolTip": "D:\\Abacus of None\\Web Apps\\Honeycomb\\Coursework 2\\Coursework 2b\\Coursework 2b\\Login.aspx.cs",
+              "RelativeToolTip": "Coursework 2b\\Login.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T21:15:53.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "D:\\Abacus of None\\Web Apps\\Honeycomb\\Coursework 2\\Coursework 2b\\Coursework 2b\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "Coursework 2b\\Login.aspx.cs",
+              "ToolTip": "D:\\Abacus of None\\Web Apps\\Honeycomb\\Coursework 2\\Coursework 2b\\Coursework 2b\\Login.aspx.cs",
+              "RelativeToolTip": "Coursework 2b\\Login.aspx.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-06-13T20:58:01.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Page3_Admin.aspx.designer.cs",
+              "DocumentMoniker": "D:\\Abacus of None\\Web Apps\\Honeycomb\\Coursework 2\\Coursework 2b\\Coursework 2b\\Page3_Admin.aspx.designer.cs",
+              "RelativeDocumentMoniker": "Coursework 2b\\Page3_Admin.aspx.designer.cs",
+              "ToolTip": "D:\\Abacus of None\\Web Apps\\Honeycomb\\Coursework 2\\Coursework 2b\\Coursework 2b\\Page3_Admin.aspx.designer.cs",
+              "RelativeToolTip": "Coursework 2b\\Page3_Admin.aspx.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T21:18:35.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Page1_Admin.aspx",
+              "DocumentMoniker": "D:\\Abacus of None\\Web Apps\\Honeycomb\\Coursework 2\\Coursework 2b\\Coursework 2b\\Page1_Admin.aspx",
+              "RelativeDocumentMoniker": "Coursework 2b\\Page1_Admin.aspx",
+              "ToolTip": "D:\\Abacus of None\\Web Apps\\Honeycomb\\Coursework 2\\Coursework 2b\\Coursework 2b\\Page1_Admin.aspx",
+              "RelativeToolTip": "Coursework 2b\\Page1_Admin.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-13T21:15:53.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Page1.aspx",
+              "DocumentMoniker": "D:\\Abacus of None\\Web Apps\\Honeycomb\\Coursework 2\\Coursework 2b\\Coursework 2b\\Page1.aspx",
+              "RelativeDocumentMoniker": "Coursework 2b\\Page1.aspx",
+              "ToolTip": "D:\\Abacus of None\\Web Apps\\Honeycomb\\Coursework 2\\Coursework 2b\\Coursework 2b\\Page1.aspx",
+              "RelativeToolTip": "Coursework 2b\\Page1.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-13T21:15:53.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SignUp.aspx.designer.cs",
+              "DocumentMoniker": "D:\\Abacus of None\\Web Apps\\Honeycomb\\Coursework 2\\Coursework 2b\\Coursework 2b\\SignUp.aspx.designer.cs",
+              "RelativeDocumentMoniker": "Coursework 2b\\SignUp.aspx.designer.cs",
+              "ToolTip": "D:\\Abacus of None\\Web Apps\\Honeycomb\\Coursework 2\\Coursework 2b\\Coursework 2b\\SignUp.aspx.designer.cs",
+              "RelativeToolTip": "Coursework 2b\\SignUp.aspx.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T21:17:29.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Site.Master.designer.cs",
+              "DocumentMoniker": "D:\\Abacus of None\\Web Apps\\Honeycomb\\Coursework 2\\Coursework 2b\\Coursework 2b\\Site.Master.designer.cs",
+              "RelativeDocumentMoniker": "Coursework 2b\\Site.Master.designer.cs",
+              "ToolTip": "D:\\Abacus of None\\Web Apps\\Honeycomb\\Coursework 2\\Coursework 2b\\Coursework 2b\\Site.Master.designer.cs",
+              "RelativeToolTip": "Coursework 2b\\Site.Master.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T21:17:11.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Page2_Admin.aspx",
+              "DocumentMoniker": "D:\\Abacus of None\\Web Apps\\Honeycomb\\Coursework 2\\Coursework 2b\\Coursework 2b\\Page2_Admin.aspx",
+              "RelativeDocumentMoniker": "Coursework 2b\\Page2_Admin.aspx",
+              "ToolTip": "D:\\Abacus of None\\Web Apps\\Honeycomb\\Coursework 2\\Coursework 2b\\Coursework 2b\\Page2_Admin.aspx",
+              "RelativeToolTip": "Coursework 2b\\Page2_Admin.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-13T21:15:53.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Site.Master.cs",
+              "DocumentMoniker": "D:\\Abacus of None\\Web Apps\\Honeycomb\\Coursework 2\\Coursework 2b\\Coursework 2b\\Site.Master.cs",
+              "RelativeDocumentMoniker": "Coursework 2b\\Site.Master.cs",
+              "ToolTip": "D:\\Abacus of None\\Web Apps\\Honeycomb\\Coursework 2\\Coursework 2b\\Coursework 2b\\Site.Master.cs",
+              "RelativeToolTip": "Coursework 2b\\Site.Master.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T21:15:53.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Page3_Admin.aspx",
+              "DocumentMoniker": "D:\\Abacus of None\\Web Apps\\Honeycomb\\Coursework 2\\Coursework 2b\\Coursework 2b\\Page3_Admin.aspx",
+              "RelativeDocumentMoniker": "Coursework 2b\\Page3_Admin.aspx",
+              "ToolTip": "D:\\Abacus of None\\Web Apps\\Honeycomb\\Coursework 2\\Coursework 2b\\Coursework 2b\\Page3_Admin.aspx",
+              "RelativeToolTip": "Coursework 2b\\Page3_Admin.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-13T21:15:53.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SignUp.aspx",
+              "DocumentMoniker": "D:\\Abacus of None\\Web Apps\\Honeycomb\\Coursework 2\\Coursework 2b\\Coursework 2b\\SignUp.aspx",
+              "RelativeDocumentMoniker": "Coursework 2b\\SignUp.aspx",
+              "ToolTip": "D:\\Abacus of None\\Web Apps\\Honeycomb\\Coursework 2\\Coursework 2b\\Coursework 2b\\SignUp.aspx",
+              "RelativeToolTip": "Coursework 2b\\SignUp.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-13T21:15:53.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SignUp.aspx.cs",
+              "DocumentMoniker": "D:\\Abacus of None\\Web Apps\\Honeycomb\\Coursework 2\\Coursework 2b\\Coursework 2b\\SignUp.aspx.cs",
+              "RelativeDocumentMoniker": "Coursework 2b\\SignUp.aspx.cs",
+              "ToolTip": "D:\\Abacus of None\\Web Apps\\Honeycomb\\Coursework 2\\Coursework 2b\\Coursework 2b\\SignUp.aspx.cs",
+              "RelativeToolTip": "Coursework 2b\\SignUp.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T21:15:53.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Honeycomb",
+              "DocumentMoniker": "D:\\Abacus of None\\Web Apps\\Honeycomb\\Coursework 2\\Coursework 2b\\Coursework 2b\\Honeycomb.csproj",
+              "RelativeDocumentMoniker": "Coursework 2b\\Honeycomb.csproj",
+              "ToolTip": "D:\\Abacus of None\\Web Apps\\Honeycomb\\Coursework 2\\Coursework 2b\\Coursework 2b\\Honeycomb.csproj",
+              "RelativeToolTip": "Coursework 2b\\Honeycomb.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-13T21:16:04.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "D:\\Abacus of None\\Web Apps\\Honeycomb\\Coursework 2\\Coursework 2b\\Coursework 2b\\Login.aspx",
+              "RelativeDocumentMoniker": "Coursework 2b\\Login.aspx",
+              "ToolTip": "D:\\Abacus of None\\Web Apps\\Honeycomb\\Coursework 2\\Coursework 2b\\Coursework 2b\\Login.aspx",
+              "RelativeToolTip": "Coursework 2b\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-13T20:58:01.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\Abacus of None\\Web Apps\\Honeycomb\\Coursework 2\\Coursework 2b\\Coursework 2b\\Web.config",
+              "RelativeDocumentMoniker": "Coursework 2b\\Web.config",
+              "ToolTip": "D:\\Abacus of None\\Web Apps\\Honeycomb\\Coursework 2\\Coursework 2b\\Coursework 2b\\Web.config",
+              "RelativeToolTip": "Coursework 2b\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-13T20:57:59.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "SignUp.aspx",
+              "DocumentMoniker": "D:\\Abacus of None\\Web Apps\\Honeycomb\\Coursework 2\\Coursework 2b\\Coursework 2b\\SignUp.aspx",
+              "RelativeDocumentMoniker": "Coursework 2b\\SignUp.aspx",
+              "ToolTip": "D:\\Abacus of None\\Web Apps\\Honeycomb\\Coursework 2\\Coursework 2b\\Coursework 2b\\SignUp.aspx",
+              "RelativeToolTip": "Coursework 2b\\SignUp.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000192|",
+              "WhenOpened": "2024-06-13T20:58:01.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "SignUp.aspx.cs",
+              "DocumentMoniker": "D:\\Abacus of None\\Web Apps\\Honeycomb\\Coursework 2\\Coursework 2b\\Coursework 2b\\SignUp.aspx.cs",
+              "RelativeDocumentMoniker": "Coursework 2b\\SignUp.aspx.cs",
+              "ToolTip": "D:\\Abacus of None\\Web Apps\\Honeycomb\\Coursework 2\\Coursework 2b\\Coursework 2b\\SignUp.aspx.cs",
+              "RelativeToolTip": "Coursework 2b\\SignUp.aspx.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-06-13T20:58:01.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Site.Master",
+              "DocumentMoniker": "D:\\Abacus of None\\Web Apps\\Honeycomb\\Coursework 2\\Coursework 2b\\Coursework 2b\\Site.Master",
+              "RelativeDocumentMoniker": "Coursework 2b\\Site.Master",
+              "ToolTip": "D:\\Abacus of None\\Web Apps\\Honeycomb\\Coursework 2\\Coursework 2b\\Coursework 2b\\Site.Master",
+              "RelativeToolTip": "Coursework 2b\\Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-13T20:58:01.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Site.Master.cs",
+              "DocumentMoniker": "D:\\Abacus of None\\Web Apps\\Honeycomb\\Coursework 2\\Coursework 2b\\Coursework 2b\\Site.Master.cs",
+              "RelativeDocumentMoniker": "Coursework 2b\\Site.Master.cs",
+              "ToolTip": "D:\\Abacus of None\\Web Apps\\Honeycomb\\Coursework 2\\Coursework 2b\\Coursework 2b\\Site.Master.cs",
+              "RelativeToolTip": "Coursework 2b\\Site.Master.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAWwBIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-06-13T20:58:01.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Page1.aspx",
+              "DocumentMoniker": "D:\\Abacus of None\\Web Apps\\Honeycomb\\Coursework 2\\Coursework 2b\\Coursework 2b\\Page1.aspx",
+              "RelativeDocumentMoniker": "Coursework 2b\\Page1.aspx",
+              "ToolTip": "D:\\Abacus of None\\Web Apps\\Honeycomb\\Coursework 2\\Coursework 2b\\Coursework 2b\\Page1.aspx",
+              "RelativeToolTip": "Coursework 2b\\Page1.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000192|",
+              "WhenOpened": "2024-06-13T20:58:01.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Home_Admin.aspx",
+              "DocumentMoniker": "D:\\Abacus of None\\Web Apps\\Honeycomb\\Coursework 2\\Coursework 2b\\Coursework 2b\\Home_Admin.aspx",
+              "RelativeDocumentMoniker": "Coursework 2b\\Home_Admin.aspx",
+              "ToolTip": "D:\\Abacus of None\\Web Apps\\Honeycomb\\Coursework 2\\Coursework 2b\\Coursework 2b\\Home_Admin.aspx",
+              "RelativeToolTip": "Coursework 2b\\Home_Admin.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000192|",
+              "WhenOpened": "2024-06-13T20:58:01.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Page1_Admin.aspx",
+              "DocumentMoniker": "D:\\Abacus of None\\Web Apps\\Honeycomb\\Coursework 2\\Coursework 2b\\Coursework 2b\\Page1_Admin.aspx",
+              "RelativeDocumentMoniker": "Coursework 2b\\Page1_Admin.aspx",
+              "ToolTip": "D:\\Abacus of None\\Web Apps\\Honeycomb\\Coursework 2\\Coursework 2b\\Coursework 2b\\Page1_Admin.aspx",
+              "RelativeToolTip": "Coursework 2b\\Page1_Admin.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000192|",
+              "WhenOpened": "2024-06-13T20:58:01.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Page2_Admin.aspx",
+              "DocumentMoniker": "D:\\Abacus of None\\Web Apps\\Honeycomb\\Coursework 2\\Coursework 2b\\Coursework 2b\\Page2_Admin.aspx",
+              "RelativeDocumentMoniker": "Coursework 2b\\Page2_Admin.aspx",
+              "ToolTip": "D:\\Abacus of None\\Web Apps\\Honeycomb\\Coursework 2\\Coursework 2b\\Coursework 2b\\Page2_Admin.aspx",
+              "RelativeToolTip": "Coursework 2b\\Page2_Admin.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000192|",
+              "WhenOpened": "2024-06-13T20:58:01.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Page3_Admin.aspx",
+              "DocumentMoniker": "D:\\Abacus of None\\Web Apps\\Honeycomb\\Coursework 2\\Coursework 2b\\Coursework 2b\\Page3_Admin.aspx",
+              "RelativeDocumentMoniker": "Coursework 2b\\Page3_Admin.aspx",
+              "ToolTip": "D:\\Abacus of None\\Web Apps\\Honeycomb\\Coursework 2\\Coursework 2b\\Coursework 2b\\Page3_Admin.aspx",
+              "RelativeToolTip": "Coursework 2b\\Page3_Admin.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000192|",
+              "WhenOpened": "2024-06-13T20:58:01.621Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
